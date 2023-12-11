@@ -1,0 +1,132 @@
+.bg-image{
+    background-image: url("https://res.cloudinary.com/dupelugqb/image/upload/v1696569362/Screenshot_2023-10-06_at_10.39.27_AM_xk1j3n.png");
+   background-size: cover;
+   height: 100vh;
+   border-bottom: 1px;
+   border-color: rgb(84, 86, 86);
+   border-bottom-style: solid;
+}
+.font-1{
+    text-align: center;
+    font-size: 50px;
+    font-style: bold;
+    font-family: roboto;
+    color: aliceblue;
+    font-weight: bold;
+}
+.mrg{
+    margin-left: auto;
+    padding: 20px;
+    margin: 20px;
+}
+.font-2{
+    text-align: center;
+    font-size: 30px;
+    font-style: none;
+    font-family: roboto;
+    color: aliceblue;
+
+}
+.card-1{
+    text-align: center;
+    margin: 20px;
+}
+.input-1{
+    height: 35px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: white;
+    border-style: none;
+}
+.card-2{
+    padding: 100px;
+}
+.card-3{
+    background-color: black;
+    border-bottom-width: 1px;
+    
+    border-bottom-style: solid;
+    border-color: aqua;
+}
+.line{
+    color: aqua;
+}
+.card-5{
+    background-color: rgb(97, 94, 94);
+    width: 100px;
+    height: 50px;
+   margin: 30px;
+    padding: 10px;
+   
+    
+}
+.font-5{
+    font-size: 25px;
+    color: white;
+}
+.plus-1{
+ text-align: right;   
+}
+.frame-1{
+    margin: 30px;
+    padding: 30px;
+}
+.button-1{
+    height: 80px;
+    background-color: rgb(50, 50, 49);
+    width: 1000px;
+    padding: 27px;
+    text-align: left;
+    padding: 20px;
+   margin: 5px;
+    border-style: none;
+}
+.input-01{
+    background-color: transparent;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 8px;
+    height: 50px;
+    width: 400px;
+    color: white;
+    border-color: aliceblue;
+    
+}
+.button-1:hover{
+    background-color: rgb(35, 35, 34);
+}
+.bgimage{
+   
+    background-color: #4e6074;
+    height: 100vh;
+    background-size:cover;
+}
+.main-font{
+    font-size: 50PX;
+    font-family: Copperplate;
+    color: rgb(221, 229, 229);
+    
+}
+.search{
+    width: 300px;
+    border-radius: 40px;
+    border-style: 5px;
+}
+.nav-bar{
+    color: rgb(225, 231, 231);
+    font-size: 15px;
+    text-align: right;
+}
+.final-1{
+    background-color: rgb(0, 0, 0);
+    height: 60vh;
+  }
+  .font-7{
+    font-size: 50PX;
+    font-family: Copperplate;
+    color: white;
+  
+  }
+  .back-g{
+    background-image: url("https://res.cloudinary.com/dupelugqb/image/upload/v1696594475/NETFLIX-removebg-preview_nyyzt1.png");
+  }

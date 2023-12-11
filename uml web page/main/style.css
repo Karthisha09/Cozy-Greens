@@ -1,0 +1,89 @@
+.bg-{
+  background-image: url("https://res.cloudinary.com/dbfcc6oze/image/upload/v1699507045/pibuecqzzwxwxd4yrkul.avif");
+height: 50vh;
+width: 50%;
+border-radius: 30px;
+
+}
+.bg-{
+    background-image: url("https://res.cloudinary.com/dupelugqb/image/upload/v1695184272/1_3_480x480_s1rqkl.jpg");
+    height: 50vh;
+    width: 50%;
+    border-radius: 30px;
+
+}
+.bg-image{
+    background-image: url("https://res.cloudinary.com/dbfcc6oze/image/upload/v1699507045/pibuecqzzwxwxd4yrkul.avif");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+.FONT-STYLE{
+    font-size: 70PX;
+    font-family: Copperplate;
+    color: #232523;
+
+}
+.sinup{
+    width: 300px;
+    height: 40px;
+     padding: 10px;
+     
+}
+.margin{
+    margin: 100px;
+    text-align: center;
+    font-family: Comic Sans;
+    font-size: 50px;
+    padding: 30px;
+}
+.buttoon{
+    border-radius: 40px;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #5AAC95;
+    border-style: none;
+}
+.text-size{
+    font-size: 20px;
+    border: white 2px ;
+}
+.nav-bar{
+    font-size: 15px;
+    font-family: Copperplate;
+    color: black;
+}
+.nav-bar{
+    color: rgb(35, 35, 33);
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+.final-1{
+    background-color: rgb(0, 0, 0);
+    height: 60vh;
+}
+.font-7{
+    font-size: 50PX;
+    font-family: Copperplate;
+    color: white;
+
+}
+.card-2{
+    background-color: transparent;
+    width: 300px;
+    height: 120px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.card-2:hover{
+    color: rgb(171, 176, 179);
+    background-color: #484646;
+}
+.buttoon:hover{
+    color: #232523;
+}
